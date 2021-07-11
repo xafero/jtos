@@ -10,4 +10,5 @@ java -jar jtos.jar [input_dir] [output_dir]
 
 ## Build
 cd jtos-cmd
+
 mvn clean package
