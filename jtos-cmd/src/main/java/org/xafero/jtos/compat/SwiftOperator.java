@@ -1,7 +1,5 @@
 package org.xafero.jtos.compat;
 
-import javax.management.RuntimeErrorException;
-
 import com.github.javaparser.ast.expr.BinaryExpr.Operator;
 
 public class SwiftOperator {
